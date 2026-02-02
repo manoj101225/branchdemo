@@ -1,2 +1,7 @@
 created by main branch
+<<<<<<< HEAD
 modified by user1
+=======
+updated by b2...
+>>>>>>> b2
+file is changing
